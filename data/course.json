@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2015",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Society",
+      "Gender Studies"
+    ],
+    [
+      "Society",
+      "Women's Studies"
+    ],
+    [
+      "Business",
+      "Organizational Behavior"
+    ]
+  ],
+  "legacy_uid": "f5ecea8a-effa-1c27-d8e2-d0c0fe6a1fe2",
+  "instructors": {
+    "content": [
+      "6a28e8ad-ebb8-672f-483a-947acf326a35"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "fc5239ae-3c31-e182-ce38-d22b018c75fb",
+    "website": "wgs-150-gender-power-leadership-and-the-workplace-spring-2015"
+  },
+  "course_title": "Gender, Power, Leadership and the Workplace",
+  "course_description": "The course will focus primarily on contemporary discourses concerning gender inequality. Most of the readings assigned will be recent articles published in U.S. and British media capturing the latest thinking and research on gender inequality in the workplace. The class will be highly interactive combining case studies, videos, debates, guest speakers, and in-class simulations.\n",
+  "department_numbers": [
+    "WGS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "WGS.150",
+  "course_image_thumbnail": {
+    "content": "432df0c8-c06a-759f-2a0d-2f02058673ec",
+    "website": "wgs-150-gender-power-leadership-and-the-workplace-spring-2015"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "98109cfe-1c6c-4bc2-910b-a5bd11e88778",
+  "site_short_id": "wgs.150-spring-2015",
+  "title": "Course Metadata"
+}
